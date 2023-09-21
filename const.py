@@ -1,0 +1,36 @@
+PAGE_TITLE = "DRPカスタムくん"
+CONNECT_DETAIL_MESSAGE = "Discordプレゼンス動作状況:"
+STARTUP = "未接続"
+CONNECTED = "接続済み"
+RUNNING = "カスタムプレゼンス起動中"
+DISCONNEDTED = "切断済み"
+CONNECT_ERROR = "接続エラー"
+CLIENT_ID_TIPS = "クライアントキー設定※ポータルサイトのApplication ID"
+IMAGE_MESSAGE = "大画像/小画像設定(※画像は「直リンク」を指定すること)"
+DETAILS_MESSAGE = "Details設定"
+STATUS_MESSAGE = "Status設定"
+BUTTON_MESSAGE = "ボタン設定"
+RADIO_CHOICE = ["Connect", "Disconnect"]
+LABEL_CLIEND_ID = "Client ID"
+LABEL_LIMAGE_URL = "Large Image URL"
+LABEL_LIMAGE_TXT = "Large Image Text"
+LABEL_SIMAGE_URL = "Small Image URL"
+LABEL_SIMAGE_TXT = "Small Image Text"
+LABEL_DETAILS = "Details Text"
+LABEL_STATUS = "Status Text"
+LABEL_BUTTON1_NAME = "Button1 Label"
+LABEL_BUTTON1_URL = "Button1 URL"
+LABEL_BUTTON2_NAME = "Button2 Label"
+LABEL_BUTTON2_URL = "Button2 URL"
+UPDATE_PRESENCE = "プレゼンス更新"
+EMPTY = ""
+REPOSITORY = "https://github.com/mmtluck/DRPcustom"
+
+
+def errmsg_invalid_length(min, max):
+    return f"Between {min} and {max} characters"
+
+
+ERROR_INVALID_ID = "Enter one-byte numbers"
+ERROR_REQUIRED_URL = "Required URL"
+ERROR_INVALID_URL = "Invalid URL"

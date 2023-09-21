@@ -29,6 +29,18 @@ Discord Rich Presenceをカスタムするためのアプリ
  4.画像を表示したい場合はLarge Image/Small Image入力欄に入力<br>
  5.ボタンを表示したい場合はButton Label/Button URL入力欄に入力<br>
  6.プレゼンス更新ボタンをクリックでカスタムプレゼンス起動！<br>
+ <br>
+ ### 画像URLを指定する時の注意事項
+ 画像のURLは直リンクでないと表示できないので注意<br>
+
+ ・表示できる<br>
+ 　https://media.tenor.com/cgiP2AOrxaQAAAAj/yuumi-cat.gif<br>
+
+ ・表示できない<br>
+ 　https://tenor.com/ja/view/yuumi-cat-cat-jam-yuumijam-3d-gif-26083923<br>
+ 
+ ### 参考画像たち
+ <br>
  
  ![2023-09-21_170838](https://github.com/mmtluck/discord-rich-presence-customkun/assets/87876753/c6d44f92-ff29-44fb-a584-fe7cbc5a9d1d)<br>
  ![2023-09-21_171945](https://github.com/mmtluck/discord-rich-presence-customkun/assets/87876753/2182048e-3e9a-4574-b204-58a0e62f25f2)<br>
